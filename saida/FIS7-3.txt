@@ -1,0 +1,4 @@
+Processando arquivo: FIS7-3.txt
+Melhor tour: [6, 4, 5, 2, 0, 3, 1]
+Melhor custo: 19494
+Tempo de execução: 0.032122135162353516 segundos

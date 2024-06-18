@@ -1,0 +1,4 @@
+Processando arquivo: Cópia de FIS15-2.txt
+Melhor tour: [12, 4, 11, 2, 6, 1, 10, 3, 14, 7, 9, 5, 0, 8, 13]
+Melhor custo: 23143
+Tempo de execução: 680.0234451293945 segundos

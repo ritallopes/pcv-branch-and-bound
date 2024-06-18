@@ -1,0 +1,4 @@
+Processando arquivo: FIS11-0.txt
+Melhor tour: [9, 1, 6, 8, 10, 7, 3, 4, 0, 2, 5]
+Melhor custo: 19179
+Tempo de execução: 2.8830525875091553 segundos
