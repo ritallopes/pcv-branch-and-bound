@@ -1,0 +1,4 @@
+Processando arquivo: FIS5-0.txt
+Melhor tour: [4, 3, 0, 2, 1]
+Melhor custo: 18430
+Tempo de execução: 0.0024840831756591797 segundos

@@ -1,0 +1,4 @@
+Processando arquivo: entradas/FIS16-4.txt
+Melhor tour: [15, 3, 2, 0, 9, 1, 11, 8, 14, 13, 10, 6, 7, 4, 12, 5]
+Melhor custo: 25978
+Tempo de execução: 1776.7875010967255 segundos
