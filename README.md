@@ -46,3 +46,10 @@
 ---
 
 Seguindo essas instruções passo a passo, você poderá executar o algoritmo BnB para resolver instâncias do Problema do Caixeiro Viajante Quadrático (QTSP) com os dados fornecidos no arquivo de entrada especificado.
+
+--- 
+## Programas Auxiliares:
+
+Para facilitar a visualização do grafo presente no arquivo entrada.txt, você pode utilizar o script draw.py. Este script desenha o grafo para uma melhor compreensão visual.
+
+Após a execução do algoritmo, você pode utilizar o script organize_FIS.py para organizar todos os resultados em um único arquivo chamado all_fis.csv. Esse arquivo consolidado facilita a análise e revisão dos resultados obtidos.
